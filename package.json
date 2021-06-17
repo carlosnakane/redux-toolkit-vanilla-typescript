@@ -1,0 +1,21 @@
+{
+  "name": "redux-toolkit-vanilla-typescript",
+  "version": "1.0.0",
+  "description": "Just making sure that I can add redux toolkit to the top of an legacy typescript vanilla app",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {
+    "@reduxjs/toolkit": "1.6.0",
+    "parcel-bundler": "^1.6.1"
+  },
+  "devDependencies": {
+    "typescript": "4.2.3"
+  },
+  "resolutions": {
+    "@babel/preset-env": "7.13.8"
+  },
+  "keywords": []
+}
